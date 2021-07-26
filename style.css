@@ -1,0 +1,40 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #505050;
+    color: rgb(255, 255, 255);
+}
+.image{
+    width: 10px;
+}
+.image_thre{
+    width: 40px;
+}
+.table_info{
+    width: 100%;
+    max-width: 1240px;
+    margin: 30px;
+    
+    
+    
+}
+.table_info{
+    border: 1px solid #d6cdcd;
+    border-radius: 8px;
+    border-spacing: 0;
+    
+
+}
+.td1{
+    border-bottom: 1px solid;
+    width: 40%;
+}
+.image3{
+    width: 20px;
+}
+.inputs{
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    background: #a5a3a3;
+}
